@@ -36,33 +36,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.sig = 'https://instagram.com/luxxyxyz' //Instagram mu
+global.sgh = 'https://github.com/alpinnio' //Github mu
+global.sgc = '-' //Group WhatsApp mu
+global.sdc = '-' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
+global.pdana = '088210072756' //Dana
+global.povo = '088210072756' //Ovo
+global.pgopay = '088210072756' //Gopay
+global.ppulsa = '088210072756' //Pulsa 
+global.ppulsa2 = '-' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = '-' //Saweria
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6287818916348' //Nomor Bot mu
+global.nomorown = '6288210072756' //Nomormu
+global.namebot = 'LuccyBOT' //Nama bot mu
+global.nameown = 'x7.luxxy ft xyz' //Nama mu
 
 
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281320170984'], //Owner1
-  ['79680341674'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['6288210072756'], //Owner1
+  ['6288210072756'], //Owner2
+  ['6288210072756'], //Owner3
+  ['6288210072756', 'Luxxy ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -111,13 +111,13 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '                「 赤 LUCCY - BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Luccy - Bot❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 Luccy - BOT'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Ganti serah lu
-global.author = '                © Fangz BOT By Fangz' //Wm author
+global.titlebot = '*TIKTOK* : @luxxystacy' //Ganti serah lu
+global.author = '                © Luccy BOT By Luxxy' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
@@ -131,8 +131,8 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 //global.fla Jangan di ganti
 
 /*⫘⫘⫘⫘ LOADING ⫘⫘⫘⫘⫘*/
-global.wait = '```[ ! ] wait...```'
-global.eror = '⸨Acsess Danied⸩'
+global.wait = '```[ ! ] wait ya ngentod...```'
+global.eror = 'Erorr Jink:v'
 
 /*⫘⫘⫘⫘ DOCUMENT ⫘⫘⫘⫘⫘*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -171,8 +171,8 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FANGZ BOT'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.stickpack = 'TIKTOK : @luxxtstacy'
+global.stickauth = `© Luccy BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
