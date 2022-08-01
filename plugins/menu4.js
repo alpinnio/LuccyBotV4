@@ -4,7 +4,7 @@ let chat = `┏━━⬣ 𝙄𝙉𝙁𝙊
 ┃
 ┃⬡ Mode : Public
 ┃⬡ Jam : -
-┃⬡ Author : FangzXd
+┃⬡ Author : LuxxyXyz
 ┃⬡ Feature : 360 *Features*
 ┃⬡ Battery : *Undefined℅*
 ┗⬣
