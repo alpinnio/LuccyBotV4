@@ -12,7 +12,7 @@ const sections = [
    {
 	title: `✃ LIST MENU`,
 	rows: [
-	    {title: "∫ 🧿» Simpel «", rowId: '.m', description: '╰► Menu simpel LuccyBot"}
+	    {title: "∫ 🧿» Simpel «", rowId: '.m', description: '╰► Menu simpel LuccyBot' },
         ]
         }, 
 
