@@ -9,7 +9,7 @@ contextInfo: { externalAdReply :{
                         mediaType: 2,
                         description: 'anu',
                         title: bottime,
-                        body: 'DEVELOPER BOT: FANGZ',          previewType: 0,
+                        body: 'DEVELOPER BOT: LUXXY',          previewType: 0,
                         thumbnail: fs.readFileSync("./thumbnail.jpg"),
                         sourceUrl: snh
                       }}
