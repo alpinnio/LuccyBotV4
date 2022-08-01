@@ -12,8 +12,8 @@ const sections = [
    {
 	title: `✃ LIST MENU`,
 	rows: [
-	    {title: "∫ 🧿» Simpel «", rowId: '.m', description: '╰► Menu simpel FANGZ BOT' },
-	    {title: "∫ 🌸» List Menu «", rowId: '.?', description: '╰► Menu Keceh FANGZ BOT' },
+	    {title: "∫ 🧿» Simpel «", rowId: '.m', description: '╰► Menu simpel LuccyBot' },
+	    {title: "∫ 🌸» List Menu «", rowId: '.?', description: '╰► Menu Keceh LuccyBot' },
         ]
         }, 
 
