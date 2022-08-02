@@ -5,10 +5,10 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let _type = (args[0] || '').toLowerCase()
 
 //------- NOMOR
-  let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
+  let nowner = `${nomorown.split`@`[0]}6288210072756@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 • @${nomorown.split`@`[0]} •
-––––═┅═━ ${nameown} ═┅═━––––
+––––═┅═━ $LuxxyXyz ═┅═━––––
 
 📮 *Note:*
 ⪧ Owner tidak menerima save contact
@@ -46,7 +46,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 
 📷 *Instagram:* ${sig}
 🐈 *Github:* ${sgh}
-🥏 *Whatsapp* wa.me/${nomorown}
+🥏 *Whatsapp* wa.me/6288210072756${nomorown}
 🌐 *Discord:* Soon
 🌏 *Website:* 
 🎶 *Tiktok:* https://tiktok.com/@luxxystacy
