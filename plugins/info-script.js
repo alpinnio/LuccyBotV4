@@ -1,7 +1,7 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `๑–––┅═━🌹SCRIPT┅═━–––๑
            
-      📮 Sc? By Fangz
+      📮 Sc? By Fangzz
 `
 const templateButtons = [
     {index: 1, urlButton: {displayText: '🎀Youtube', url: 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg'}},
